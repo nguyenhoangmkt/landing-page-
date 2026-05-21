@@ -1,0 +1,8 @@
+{
+  "name": "MKT Automation",
+  "description": "Hệ thống xây dựng và tiếp cận khách hàng tự động trên Facebook Profile không cần Ads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
